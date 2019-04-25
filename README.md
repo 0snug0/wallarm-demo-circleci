@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/0snug0/wallarm-demo-circleci/tree/master.svg?style=svg)](https://circleci.com/gh/0snug0/wallarm-demos-circleci/tree/master)
+[![CircleCI](https://circleci.com/gh/0snug0/wallarm-demo-circleci.svg?style=svg)](https://circleci.com/gh/0snug0/wallarm-demo-circleci)
 
 # Wallarm FAST Demo for Circle-CI
 A Circle CI demo with a Wallarm FAST proxy running 1000's of security test
